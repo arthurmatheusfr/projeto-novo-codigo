@@ -17,5 +17,13 @@ public string GetNome()
 {
     return Nome;
 }
+public void SetId(Int64 Id)
+{
+    this.Id = Id;
+}
+public Int64 GetId()
+{
+    return Id;
+}
 
 }
