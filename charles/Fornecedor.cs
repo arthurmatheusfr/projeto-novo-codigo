@@ -2,8 +2,8 @@ namespace charles;
 
 public class Fornecedor
 {
-private String Nome;
-private String Telefone;
+private string Nome;
+private string Telefone;
 
 public void SetNome(string Nome)
 

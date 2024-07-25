@@ -5,9 +5,9 @@ namespace charles;
 public class Pedirtecido
 {
 Int64 Id;
-String data;
-String cliente;
-String status;
+string data;
+string cliente;
+string status;
 Int64 total;
 
 

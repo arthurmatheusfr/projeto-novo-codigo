@@ -2,10 +2,10 @@ namespace charles;
 
 public class Cliente
 {
-String Nome;
-Int64 Id;
-Int64 Telefone;
-String CPF;
+string Nome;
+int64 Id;
+int64 Telefone;
+string CPF;
 public void SetNome(string Nome)
 
 {

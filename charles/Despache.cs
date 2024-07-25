@@ -4,17 +4,17 @@ public class Despache
 {
   Int64 Pedido;
   Int64 ClienteId;
-  String EndereçoEnt;
-  String Status;
+  string EndereçoEnt;
+  string Status;
   Int64 ItemId;
-  String Produto;
+  string Produto;
   Int64 Qt;
   Int64 Peso;
   Int64 DespachoId;
   Int64 PedidoId;
-  String Transportadora;
-  String DataDespacho;
-  String DataEstimada;
+  string Transportadora;
+  string DataDespacho;
+  string DataEstimada;
 
 
 }

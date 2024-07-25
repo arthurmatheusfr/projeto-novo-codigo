@@ -2,10 +2,10 @@ namespace charles;
 
 public class Fiacao
 {
-  String Nome;
+  string Nome;
   Int64 Id;
   Int64 Qt;
-  String TipoFiac;
+  string TipoFiac;
 
 
 }
