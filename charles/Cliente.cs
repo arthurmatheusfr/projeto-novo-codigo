@@ -3,8 +3,8 @@ namespace charles;
 public class Cliente
 {
 string Nome;
-int64 Id;
-int64 Telefone;
+Int64 Id;
+Int64 Telefone;
 string CPF;
 public void SetNome(string Nome)
 

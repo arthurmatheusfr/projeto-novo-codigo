@@ -10,24 +10,49 @@ string cliente;
 string status;
 Int64 total;
 
+public void Setdata(string data)
 
-public void CriarPedido()
 {
-
+    this.data = data;
 }
-public void AtualizarPedido()
+public string Getdata()
 {
-  
+    return data;
 }
-public void CancelarPedido()
+public void Setcliente(string cliente)
+
 {
-
+    this.cliente = cliente;
 }
-public Int64 CalcularTotal()
+public string Getcliente()
 {
-    
+    return cliente;
 }
+public void Setstatus(string status)
 
+{
+    this.status = status;
+}
+public string Getstatus()
+{
+    return status;
+}
+public void SetId(Int64 Id)
 
+{
+    this.Id = Id;
+}
+public Int64 GetId()
+{
+    return Id;
+}
+public void Settotal(Int64 total)
 
+{
+    this.total = total;
+}
+public Int64 Gettotal()
+{
+    return total;
+}
 }

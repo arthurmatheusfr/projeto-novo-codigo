@@ -19,7 +19,7 @@
                HorizontalOptions="Center">
             <Label Text="MOLDE" 
                    FontSize="20" 
-                   HorizontalOptions="Center" />
+                   HorizontalOptions="Center"/>
         </Frame>
         
         <Label Text="Controle de Corte" 
