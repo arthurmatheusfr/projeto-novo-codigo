@@ -2,9 +2,9 @@ using Microsoft.Maui.Controls;
 
 namespace charles
 {
-    public partial class cortepage : ContentPage
+    public partial class CortePage : ContentPage
     {
-        public cortepage()
+        public CortePage()
         {
             InitializeComponent();
         }

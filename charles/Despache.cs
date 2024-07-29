@@ -68,7 +68,7 @@ public void SetDataEstimada(string DataEstimada)
 }
 public string GetDataEstimada()
 {
-    return DataDataEstimada;
+    return DataEstimada;
 }
 public void SetPedido(Int64 Pedido)
 

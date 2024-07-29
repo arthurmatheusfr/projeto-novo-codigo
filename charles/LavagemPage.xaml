@@ -10,7 +10,9 @@
                HorizontalOptions="Center" 
                TextColor="Blue"/>
         
-        <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Margin="10">
+        <StackLayout Orientation="Horizontal" 
+        HorizontalOptions="Center" 
+        Margin="10">
             <Label Text="Qual maquina" 
                    FontSize="20" 
                    VerticalOptions="Center"/>
@@ -21,7 +23,9 @@
                    Margin="10,0,0,0"/>
         </StackLayout>
         
-        <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Margin="10">
+        <StackLayout Orientation="Horizontal" 
+        HorizontalOptions="Center" 
+        Margin="10">
             <Label Text="Tempo" 
                    FontSize="20" 
                    VerticalOptions="Center"/>
@@ -32,7 +36,9 @@
                    Margin="10,0,0,0"/>
         </StackLayout>
         
-        <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Margin="10">
+        <StackLayout Orientation="Horizontal" 
+        HorizontalOptions="Center" 
+        Margin="10">
             <Label Text="Temperatura" 
                    FontSize="20" 
                    VerticalOptions="Center"/>

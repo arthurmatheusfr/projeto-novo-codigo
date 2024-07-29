@@ -16,8 +16,7 @@
             Clicked="AdicionarCliente_Clicked" 
             Grid.Column="1" />
         </Grid>
-        <ListView 
-        x:Name="listaClientes" 
+        <ListView x:Name="listaClientes" 
         ItemsSource="{Binding Clientes}" />
     </VerticalStackLayout>
 </ContentPage>
