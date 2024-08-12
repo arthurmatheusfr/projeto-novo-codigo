@@ -1,29 +1,13 @@
-namespace charles;
+using LiteDB;
 
-public class Cliente
-{
-string Nome;
-Int64 Id;
-Int64 Telefone;
-string CPF;
-public void SetNome(string Nome)
+namespace LiteDBExample.Modelos;
 
+public class Cliente : Registro
 {
-    this.Nome = Nome;
-}
-public string GetNome()
-{
-    return Nome;
-}
-public void SetCPF(string CPF)
+  [BsonId]
+  public int Id { get; set; }
+  public string Nome { get; set; }
+  public string Sobrenome { get; set; }
 
-{
-    this.CPF = CPF;
-}
-public string GetCPF()
-{
-    return CPF;
-}
-
-
+  public string Telefone { get; set; }
 }
