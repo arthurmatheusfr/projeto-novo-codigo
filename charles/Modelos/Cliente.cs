@@ -1,6 +1,6 @@
 using LiteDB;
 
-namespace LiteDBExample.Modelos;
+namespace charles.Modelos;
 
 public class Cliente : Registro
 {

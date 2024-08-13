@@ -1,6 +1,6 @@
 using Microsoft.Maui.Controls;
 
-namespace Charles
+namespace charles
 {
     public partial class CompraEstoquePage : ContentPage
     {

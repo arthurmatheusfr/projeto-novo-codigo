@@ -11,8 +11,7 @@
         <Entry x:Name="entryAjustarParametros" 
         Placeholder="Digite os parâmetros"/>
 
-        <CheckBox x:Name="chkFiaçaoManual" 
-        Text="Fiação manual?"/>
+        <CheckBox x:Name="chkFiaçaoManual"/>
 
         <Button Text="Iniciar Fiação" 
         Clicked="IniciarFiacao_Clicked"/>

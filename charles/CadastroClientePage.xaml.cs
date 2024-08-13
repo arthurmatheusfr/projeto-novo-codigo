@@ -1,6 +1,6 @@
-﻿using LiteDBExample.Modelos;
+﻿using charles.Modelos;
 
-namespace LiteDBExample;
+namespace charles;
 
 public partial class CadastroClientePage : ContentPage
 {
