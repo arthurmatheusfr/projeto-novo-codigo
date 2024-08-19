@@ -17,7 +17,8 @@
 
         <Entry x:Name="qtEntry" 
                Placeholder="Digite a quantidade" 
-               BackgroundColor="White" />
+               BackgroundColor="White"
+               Keyboard="Numeric"/>
 
         <Label Text="Tecido" 
                FontSize="Medium" 

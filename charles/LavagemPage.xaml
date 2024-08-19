@@ -20,7 +20,8 @@
                    HeightRequest="40" 
                    BackgroundColor="White" 
                    VerticalOptions="Center" 
-                   Margin="10,0,0,0"/>
+                   Margin="10,0,0,0"
+                   Keyboard="Text"/>
         </StackLayout>
         
         <StackLayout Orientation="Horizontal" 
@@ -33,7 +34,8 @@
                    HeightRequest="40" 
                    BackgroundColor="White" 
                    VerticalOptions="Center" 
-                   Margin="10,0,0,0"/>
+                   Margin="10,0,0,0"
+                   Keyboard="Numeric"/>
         </StackLayout>
         
         <StackLayout Orientation="Horizontal" 
@@ -46,7 +48,8 @@
                    HeightRequest="40" 
                    BackgroundColor="White" 
                    VerticalOptions="Center" 
-                   Margin="10,0,0,0"/>
+                   Margin="10,0,0,0"
+                    Keyboard="Numeric"/>
             <Label Text="C°" 
                    FontSize="20" 
                    VerticalOptions="Center"
