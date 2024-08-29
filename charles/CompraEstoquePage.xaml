@@ -36,7 +36,7 @@
                Placeholder="Digite o local" 
                BackgroundColor="White" />
 
-        <Label Text="Frete:" 
+        <Label Text="Frete: R$15,00" 
                FontSize="Medium" 
                TextColor="Black" />
 
